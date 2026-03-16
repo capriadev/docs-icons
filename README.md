@@ -223,3 +223,5 @@
   webhook-2af1f1.svg
   ```
 </details>
+
+> URL: `https://raw.githubusercontent.com/capriadev/docs-icons/main/icons/ICON_NAME.svg`
